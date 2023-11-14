@@ -1,0 +1,192 @@
+﻿  00_soundmain.cpp
+  00_title.cpp
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\00_title.cpp(77,11): warning C4244: '引数': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\00_title.cpp(76,11): warning C4244: '引数': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+  01.5_StageSelect.cpp
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\01.5_StageSelect.cpp(69,48): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\01.5_StageSelect.cpp(69,36): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\01.5_StageSelect.cpp(222,12): warning C4244: '引数': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\01.5_StageSelect.cpp(221,12): warning C4244: '引数': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\01.5_StageSelect.cpp(246,15): warning C4244: '引数': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\01.5_StageSelect.cpp(245,15): warning C4244: '引数': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+  01_BOSSscene.cpp
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\01_BOSSscene.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\01_Scene.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\Boss.h(14,31): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+  01_Scene.cpp
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\01_Scene.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\Boss.h(14,31): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+  Boss.cpp
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\01_Scene.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\Boss.h(14,31): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\01_BOSSscene.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\Boss.cpp(196,17): warning C4244: '引数': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\Boss.cpp(195,17): warning C4244: '引数': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\Boss.cpp(214,4): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\Boss.cpp(213,4): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\Boss.cpp(231,25): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\Boss.cpp(230,4): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\Boss.cpp(342,31): warning C4805: '==': 演算中の 'BOOL' 型と 'bool' 型の混用は安全ではありません
+  boss_parts.cpp
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\01_Scene.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\boss_parts.cpp(141,25): warning C4244: '引数': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\boss_parts.cpp(140,25): warning C4244: '引数': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\boss_parts.cpp(226,29): warning C4805: '==': 演算中の 'BOOL' 型と 'bool' 型の混用は安全ではありません
+  bullet.cpp
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\01_Scene.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\bullet.cpp(111,26): warning C4805: '==': 演算中の 'BOOL' 型と 'bool' 型の混用は安全ではありません
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\bullet.cpp(133,81): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\bullet.cpp(134,81): warning C4244: '=': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\bullet.cpp(179,31): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\bullet.cpp(205,26): warning C4805: '==': 演算中の 'BOOL' 型と 'bool' 型の混用は安全ではありません
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\bullet.cpp(213,41): warning C4244: '引数': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\bullet.cpp(213,21): warning C4244: '引数': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+  collision.cpp
+  data.cpp
+  enemy.cpp
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\01_Scene.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\enemy.cpp(216,21): warning C4244: '引数': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\enemy.cpp(215,21): warning C4244: '引数': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\enemy.cpp(316,28): warning C4805: '==': 演算中の 'BOOL' 型と 'bool' 型の混用は安全ではありません
+  enemybullet.cpp
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\01_Scene.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\enemybullet.cpp(95,31): warning C4805: '==': 演算中の 'BOOL' 型と 'bool' 型の混用は安全ではありません
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\enemybullet.cpp(156,36): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\enemybullet.cpp(182,31): warning C4805: '==': 演算中の 'BOOL' 型と 'bool' 型の混用は安全ではありません
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\enemybullet.cpp(192,26): warning C4244: '引数': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\enemybullet.cpp(191,26): warning C4244: '引数': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+  Enemy_PopALL.cpp
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\01_Scene.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  explosion.cpp
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\01_Scene.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\explosion.cpp(84,24): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\explosion.cpp(81,24): warning C4244: '引数': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\explosion.cpp(80,24): warning C4244: '引数': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+  field.cpp
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\01_Scene.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\field.cpp(101,7): warning C4244: '引数': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\field.cpp(100,7): warning C4244: '引数': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+  gauge.cpp
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\01_Scene.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\gauge.cpp(47,32): warning C4244: '=': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\gauge.cpp(74,32): warning C4244: '=': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\gauge.cpp(94,22): warning C4805: '==': 演算中の 'BOOL' 型と 'bool' 型の混用は安全ではありません
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\gauge.cpp(104,17): warning C4244: '引数': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\gauge.cpp(103,17): warning C4244: '引数': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\gauge.cpp(119,23): warning C4805: '==': 演算中の 'BOOL' 型と 'bool' 型の混用は安全ではありません
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\gauge.cpp(129,18): warning C4244: '引数': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\gauge.cpp(128,18): warning C4244: '引数': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+  inputx.cpp
+  keyboard.cpp
+  kirakira.cpp
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\01_Scene.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\kirakira.cpp(126,24): warning C4244: '引数': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\kirakira.cpp(125,24): warning C4244: '引数': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\kirakira.cpp(159,59): warning C4244: '=': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+  main.cpp
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\01_Scene.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\01_BOSSscene.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  コードを生成中...
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\boss_parts.cpp(179): warning C4715: 'SetBossParts': 値を返さないコントロール パスがあります。
+  コンパイル中...
+  mouse.cpp
+  player.cpp
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\01_Scene.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\player.cpp(386,17): warning C4244: '引数': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\player.cpp(385,17): warning C4244: '引数': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\player.cpp(407,19): warning C4244: '引数': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\player.cpp(406,19): warning C4244: '引数': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\player.cpp(419,22): warning C4805: '==': 演算中の 'BOOL' 型と 'bool' 型の混用は安全ではありません
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\player.cpp(427,21): warning C4244: '引数': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\player.cpp(426,21): warning C4244: '引数': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\player.cpp(454,33): warning C4805: '==': 演算中の 'BOOL' 型と 'bool' 型の混用は安全ではありません
+  player_vs_enemy.cpp
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\01_Scene.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  polygon.cpp
+  progress.cpp
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\01_Scene.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\progress.cpp(118,24): warning C4805: '==': 演算中の 'BOOL' 型と 'bool' 型の混用は安全ではありません
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\progress.cpp(129,19): warning C4244: '引数': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\progress.cpp(128,19): warning C4244: '引数': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\progress.cpp(140,20): warning C4805: '==': 演算中の 'BOOL' 型と 'bool' 型の混用は安全ではありません
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\progress.cpp(151,15): warning C4244: '引数': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\progress.cpp(150,15): warning C4244: '引数': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\progress.cpp(162,20): warning C4805: '==': 演算中の 'BOOL' 型と 'bool' 型の混用は安全ではありません
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\progress.cpp(173,15): warning C4244: '引数': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\progress.cpp(172,15): warning C4244: '引数': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\progress.cpp(194,17): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\progress.cpp(198,17): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\progress.cpp(202,17): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\progress.cpp(206,17): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\progress.cpp(222,17): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\progress.cpp(227,17): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\progress.cpp(232,17): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\progress.cpp(237,17): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+  p_bullet_vs_enemy.cpp
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\01_Scene.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  renderer.cpp
+  Result.cpp
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\01_Scene.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\Boss.h(14,31): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+  score.cpp
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\01_Scene.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\score.cpp(179,64): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\score.cpp(179,61): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  skil_ui.cpp
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\01_Scene.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\skil_ui.cpp(148,31): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\skil_ui.cpp(147,31): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  Sound.cpp
+  sprite.cpp
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\sprite.cpp(43,56): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\sprite.cpp(43,43): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\sprite.cpp(47,56): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\sprite.cpp(47,43): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\sprite.cpp(51,56): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\sprite.cpp(51,43): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\sprite.cpp(55,56): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\sprite.cpp(55,43): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\sprite.cpp(62,10): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\sprite.cpp(63,16): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+  stage_01.cpp
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\01_Scene.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\Boss.h(14,31): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+  stage_02.cpp
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\01_Scene.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\Boss.h(14,31): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+  stage_03.cpp
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\01_Scene.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\Boss.h(14,31): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+  stage_04.cpp
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\01_Scene.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\Boss.h(14,31): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+  Texture.cpp
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\Texture.cpp(35,12): warning C4018: '>=': signed と unsigned の数値を比較しようとしました。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\Texture.cpp(49,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\Texture.cpp(70,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  tutorial.cpp
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\01_Scene.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\tutorial.cpp(69,19): warning C4244: '引数': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\tutorial.cpp(68,19): warning C4244: '引数': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+  weapon_select.cpp
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\01_Scene.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\weapon_select.cpp(288,24): warning C4244: '引数': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\weapon_select.cpp(287,24): warning C4244: '引数': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\weapon_select.cpp(313,26): warning C4244: '引数': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\weapon_select.cpp(312,26): warning C4244: '引数': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\weapon_select.cpp(330,29): warning C4244: '引数': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\weapon_select.cpp(329,29): warning C4244: '引数': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\weapon_select.cpp(363,27): warning C4244: '引数': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\weapon_select.cpp(362,27): warning C4244: '引数': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\weapon_select.cpp(382,31): warning C4244: '引数': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\weapon_select.cpp(381,31): warning C4244: '引数': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+  weapon_shop.cpp
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\01_Scene.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\weapon_shop.cpp(238,24): warning C4244: '引数': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\weapon_shop.cpp(237,24): warning C4244: '引数': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\weapon_shop.cpp(263,31): warning C4244: '引数': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\weapon_shop.cpp(262,31): warning C4244: '引数': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\weapon_shop.cpp(294,39): warning C4244: '引数': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\weapon_shop.cpp(293,39): warning C4244: '引数': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+  コードを生成中...
+  sample.vcxproj -> C:\Users\kousu\OneDrive\デスクトップ\HAL２年\HEW展示用\x64\Debug\sample.exe

@@ -1,0 +1,35 @@
+﻿  BG.cpp
+c:\users\kousu\onedrive\デスクトップ\dx21 弾幕サンプル２ - コピー\main.h(19): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  Boss.cpp
+c:\users\kousu\onedrive\デスクトップ\dx21 弾幕サンプル２ - コピー\main.h(19): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  bullet.cpp
+c:\users\kousu\onedrive\デスクトップ\dx21 弾幕サンプル２ - コピー\main.h(19): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  collision.cpp
+c:\users\kousu\onedrive\デスクトップ\dx21 弾幕サンプル２ - コピー\main.h(19): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  enemy.cpp
+c:\users\kousu\onedrive\デスクトップ\dx21 弾幕サンプル２ - コピー\main.h(19): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  explosion.cpp
+c:\users\kousu\onedrive\デスクトップ\dx21 弾幕サンプル２ - コピー\main.h(19): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  Game.cpp
+c:\users\kousu\onedrive\デスクトップ\dx21 弾幕サンプル２ - コピー\main.h(19): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  input.cpp
+c:\users\kousu\onedrive\デスクトップ\dx21 弾幕サンプル２ - コピー\main.h(19): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  main.cpp
+c:\users\kousu\onedrive\デスクトップ\dx21 弾幕サンプル２ - コピー\main.h(19): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  player.cpp
+c:\users\kousu\onedrive\デスクトップ\dx21 弾幕サンプル２ - コピー\main.h(19): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  renderer.cpp
+c:\users\kousu\onedrive\デスクトップ\dx21 弾幕サンプル２ - コピー\main.h(19): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  Result.cpp
+c:\users\kousu\onedrive\デスクトップ\dx21 弾幕サンプル２ - コピー\main.h(19): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  scene.cpp
+c:\users\kousu\onedrive\デスクトップ\dx21 弾幕サンプル２ - コピー\main.h(19): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  Hp.cpp
+c:\users\kousu\onedrive\デスクトップ\dx21 弾幕サンプル２ - コピー\main.h(19): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  Sound.cpp
+  sprite.cpp
+c:\users\kousu\onedrive\デスクトップ\dx21 弾幕サンプル２ - コピー\main.h(19): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  Texture.cpp
+c:\users\kousu\onedrive\デスクトップ\dx21 弾幕サンプル２ - コピー\main.h(19): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
+  Title.cpp
+c:\users\kousu\onedrive\デスクトップ\dx21 弾幕サンプル２ - コピー\main.h(19): fatal error C1083: include ファイルを開けません。'd3dx11.h':No such file or directory
